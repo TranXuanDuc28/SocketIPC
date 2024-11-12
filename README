@@ -1,0 +1,9 @@
+cc server.c -o server
+./server
+
+cc client.c -o client
+./client input.txt output.txt
+
+Nhan tin rieng
+@TheDung Toi la Minh Cong
+
